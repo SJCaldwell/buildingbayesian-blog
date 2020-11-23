@@ -1,1 +1,1 @@
-Sitemap: http://buildingbayesian.com/sitemap.xml
+Sitemap: https://buildingbayesian.com/sitemap.xml
