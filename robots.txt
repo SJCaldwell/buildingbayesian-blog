@@ -1,1 +1,1 @@
-Sitemap: https://sjcaldwell.github.io/buildingbayesian-blog/sitemap.xml
+Sitemap: http://buildingbayesian.com/blog/sitemap.xml
