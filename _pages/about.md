@@ -18,7 +18,7 @@ If you find yourself in desperate need of determining who wrote what, understand
 
  Plus it makes you sound really smart, and you can't put a price tag on that. 
 
- ### Who should read this?
+### Who should read this?
 
  Ideally everyone interested in Bayesian ML, but hopefully there's a lot here for anyone working with large, messy datasets trying to rigorously make predictions with them. 
 
@@ -26,7 +26,7 @@ If you find yourself in desperate need of determining who wrote what, understand
 
  This should help with that. 
 
- ### Will you write about other stuff? 
+### Will you write about other stuff? 
 
 We're not completely married to Bayesian topics, and reserve the right to talk about other stuff, but idelogically we're pretty Bayesian and that will likely inform how we write about other topics. So maybe. Idk. 
 
